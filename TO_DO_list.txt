@@ -1,3 +1,9 @@
+(March 15th 2010)
+- (DONE) Bug fix for wrong interrupt sequences in IRQ and NMI. Tested by
+         simulation with RTI and in a real environment by customer.
+- (DONE) Removed directory ./verilog_TRIAL from source.
+- (DONE) Updated HTML
+
 (February 25th 2009)
 - (DONE) CORRECTED "RTI" (wrong: use of stack pointer)
 - (DONE) RENAME all states of "FSM Execution Unit" for better reading
